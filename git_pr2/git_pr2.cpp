@@ -16,13 +16,13 @@ int main()
 	cin >> alpha;
 
 	double z1;
-	/*double z2;*/
+	double z2;
 
 	z1 = 2 * pow(sin(3 * Pi - 2 * alpha), 2) * pow(cos(5 * Pi + 2 * alpha), 2);
-	/*z2 = 0.25 - 0.25 * sin((5.0 / 2.0) * Pi - 8 * alpha);*/
+	z2 = 0.25 - 0.25 * sin((5.0 / 2.0) * Pi - 8 * alpha);
 
 	cout << "z1 = " << z1 << endl;
-	/*cout << "z2 = " << z2 << endl;*/
+	cout << "z2 = " << z2 << endl;
 
 
 
