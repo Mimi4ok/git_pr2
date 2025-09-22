@@ -26,6 +26,10 @@ int main()
 
 
 
+	//просто внесені зміни за 3 завданням
+
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
