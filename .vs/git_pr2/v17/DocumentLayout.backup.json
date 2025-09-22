@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "git_pr2\\git_pr2.cpp",
               "ToolTip": "D:\\university\\git_pr2\\git_pr2\\git_pr2.cpp",
               "RelativeToolTip": "git_pr2\\git_pr2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+>>>>>>> new_branch
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-21T11:34:04.922Z",
               "EditorCaption": ""
