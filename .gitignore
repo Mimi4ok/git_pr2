@@ -39,3 +39,15 @@
 
 # debug information files
 *.dwo
+
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.db
+*.opendb
+*.log
+*.obj
+*.pdb
+Debug/
+Release/
